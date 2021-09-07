@@ -10,7 +10,8 @@
         \newcommand{\ph}{\varphi}
         \newcommand{\eps}{\varepsilon}
         \newcommand{\padi}[2]{\frac{\partial #1}{\partial #2}}
+        \newcommand{\ol}[1]{\overline{#1}}
 
 \chapter О чём это всё?
 
-\_include lection2021_09_07.qq
+\_include lection2021_09_10.qq
